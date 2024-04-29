@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuvind Ajayan</h1>
 <h3 align="center">A passionate Flutter developer </h3>
 
-- 🔭 I’m currently working on [cropmate](https://github.com/AmosPeterAlex/cropmate)
+- 🔭 I’m currently working on Mobile Application Development
 
 - 🤝 I’m looking for help with **collaborate on any Mobile App Ideas**
 
