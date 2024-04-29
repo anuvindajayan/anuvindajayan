@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuvind Ajayan</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Flutter developer </h3>
 
 - 🔭 I’m currently working on [cropmate](https://github.com/AmosPeterAlex/cropmate)
 
