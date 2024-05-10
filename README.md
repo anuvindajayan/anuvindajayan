@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuvindajayan" alt="anuvindajayan" /></a> </p>
 
-- 🔭 I’m currently working on [cropmate](https://github.com/AmosPeterAlex/cropmate)
+- 🔭 I’m currently working on **Mobile Application Development**
 
 - 👯 I’m looking to collaborate on **any Mobile Application**
 
